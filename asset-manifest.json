@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sankalp2580/todoplan.git/static/css/main.d9759e55.css",
+    "main.js": "/sankalp2580/todoplan.git/static/js/main.0a68b71a.js",
+    "static/js/787.6d8a84b4.chunk.js": "/sankalp2580/todoplan.git/static/js/787.6d8a84b4.chunk.js",
+    "index.html": "/sankalp2580/todoplan.git/index.html",
+    "main.d9759e55.css.map": "/sankalp2580/todoplan.git/static/css/main.d9759e55.css.map",
+    "main.0a68b71a.js.map": "/sankalp2580/todoplan.git/static/js/main.0a68b71a.js.map",
+    "787.6d8a84b4.chunk.js.map": "/sankalp2580/todoplan.git/static/js/787.6d8a84b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9759e55.css",
+    "static/js/main.0a68b71a.js"
+  ]
+}
